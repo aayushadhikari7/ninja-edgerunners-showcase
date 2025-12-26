@@ -87,9 +87,31 @@ Each character fights in their themed environment:
 
 <div align="center">
 
-| Character Select | Gameplay | Level Up |
-|-----------------|----------|----------|
-| ![Select](assets/screenshot-select.png) | ![Game](assets/screenshot-game.png) | ![Upgrade](assets/screenshot-upgrade.png) |
+### Character Selection
+*Choose from 16 unique ninja characters*
+
+![Character Selection](assets/character_selection.png)
+
+---
+
+### Gameplay
+*Battle waves of enemies with auto-attacking weapons*
+
+![Gameplay](assets/game_loaded_level_1.png)
+
+---
+
+### Abilities & Combat
+*Unleash devastating jutsu against hordes of enemies*
+
+![Abilities](assets/abilities_showcased_enemy_entities.png)
+
+---
+
+### Level Up
+*Choose powerful upgrades to enhance your ninja*
+
+![Level Up](assets/level_up_upgrade_screen.png)
 
 </div>
 
