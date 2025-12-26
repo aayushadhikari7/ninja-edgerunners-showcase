@@ -149,6 +149,14 @@ Each character fights in their themed environment:
 
 ---
 
+## Disclaimer
+
+> This is an **unofficial fan-made game** created for entertainment and educational purposes only. This project is **not affiliated with, endorsed by, or associated with** Masashi Kishimoto, Shueisha, VIZ Media, Studio Pierrot, Bandai Namco, or any official Naruto rights holders.
+>
+> All Naruto characters, names, and related indicia are trademarks and copyrights of their respective owners. No copyright infringement is intended. This is a **non-commercial project**.
+
+---
+
 <div align="center">
 
 Made with passion by [@aayushadhikari7](https://github.com/aayushadhikari7)
